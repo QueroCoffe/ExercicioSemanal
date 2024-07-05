@@ -1,0 +1,19 @@
+/* banner.css */
+.banner {
+    width: 100%;
+    height: 400px;
+    /* ajuste a altura conforme necessário */
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
+        url('/img/bannerjogo.png');
+    background-size: cover;
+    background-position: top;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    /* ajuste a cor do texto conforme necessário */
+    font-size: 2em;
+    /* ajuste o tamanho do texto conforme necessário */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    /* sombra no texto para melhor legibilidade */
+}

@@ -1,0 +1,33 @@
+.game-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.game-image {
+    width: 100%;
+    height: auto;
+}
+
+.game-title {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.game-year {
+    color: #666;
+}
+
+.play-button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.play-button:hover {
+    background-color: #218838;
+}
