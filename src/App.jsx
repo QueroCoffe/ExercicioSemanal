@@ -6,7 +6,7 @@ import Footer from "./components/footer";
 function App() {
     return(
         <>
-        <Cabecalho logado={false} nomeUsuario="William"/>
+        <Cabecalho logado={true} nomeUsuario="William"/>
         <Banner/>
         <Galeria/>
         <Footer/>

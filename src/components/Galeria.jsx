@@ -9,7 +9,10 @@ const Jogos = [
     { cod: 6, nomeDojogo: "Elder Ring", ano: 2023, imagem: "/img/elderring.jpg" },
     { cod: 7, nomeDojogo: "Hollow Knight", ano: 2016, imagem: "/img/hollowknigth.jpg" },
     { cod: 8, nomeDojogo: "God of War", ano: 2023, imagem: "/img/godofwar.jpg" },
-    { cod: 9, nomeDojogo: "Legue of Legends", ano: 2014, imagem: "/img/lol.jpg" }
+    { cod: 9, nomeDojogo: "Legue of Legends", ano: 2014, imagem: "/img/lol.jpg" },
+    { cod: 10, nomeDojogo: "Sea of Stars", ano: 2024, imagem: "/img/seaofstars.jpg" },
+    { cod: 11, nomeDojogo: "Batman Arkham", ano: 2018, imagem: "/img/batman.jpg" },
+    { cod: 12, nomeDojogo: "Spider-Man", ano: 2024, imagem: "/img/spider.jpg" }
 ];
 
 function Galeria() {
