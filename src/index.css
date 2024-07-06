@@ -63,6 +63,7 @@ h2{
     font-size: 25px;
     text-align: center;
     border: 2px solid;
+    border-radius: 8px;
     padding: 8px;
     margin: 10px;
     background-color: green;

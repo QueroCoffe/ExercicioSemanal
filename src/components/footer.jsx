@@ -2,7 +2,7 @@ import "./footer.css";
 
 function Footer() {
     return(
-        <footer> todos direitos reservados</footer>
+        <footer className="rodape"> todos direitos reservados</footer>
     );
 }
 export default Footer;
